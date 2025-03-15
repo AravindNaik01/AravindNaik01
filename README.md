@@ -22,13 +22,12 @@
 &nbsp;&nbsp;&nbsp;• Created a web-based system for students to submit feedback on courses and faculty.  
 
 ## 📚 Certifications & Training
-- 🏆 **Web Development Workshop** (Microsoft Learn Student Ambassador, 2024)  
-- 🎓 **Web Development Internship** (Aadi Foundation × Microsoft)  
+- 🏆 **Web Development Workshop** (Microsoft Learn Student Ambassador, 2024)   
 - 🏅 **Core Java Training** (Internshala, 2023)  
 
 
 ## 🌐 Connect with Me
-📧 Email: **naikaravind044@gmail.com**  
+📧 Email: **aravindnaik099@gmail.com**  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/aravind-naik-07a711277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
