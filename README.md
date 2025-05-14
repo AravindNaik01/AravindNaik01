@@ -27,7 +27,7 @@
 
 
 ## 🌐 Connect with Me
-📧 Email: **aravindnaik099@gmail.com**  
+📧 Email: **naikaravind044@gmail.com**  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/aravind-naik-07a711277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
