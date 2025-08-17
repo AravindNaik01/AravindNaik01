@@ -11,7 +11,7 @@
 
 ## 🔨 Technical Skills
 - **Languages:** Java, C, Python 
-- **Web Development:** HTML, CSS 
+- **Web Development:** HTML, CSS ,Js ,React.js , Node.js ,Express.js 
 - **Tools & Platforms:** GitHub, Git, Figma  
 - **Software Development:** Core Java, OOPs Concepts  
 
@@ -19,7 +19,8 @@
 🔹 **Mango Leaf Disease Detection (AI-based, Nov - Dec 2024)**  
 &nbsp;&nbsp;&nbsp;• Developed an AI system for detecting diseases in mango leaves to help farmers manage plant health.  
 🔹 **Student Feedback System (Aug - Oct 2024)**  
-&nbsp;&nbsp;&nbsp;• Created a web-based system for students to submit feedback on courses and faculty.  
+&nbsp;&nbsp;&nbsp;• Created a web-based system for students to submit feedback on courses and faculty. 
+
 
 ## 📚 Certifications & Training
 - 🏆 **Web Development Workshop** (Microsoft Learn Student Ambassador, 2024)   
